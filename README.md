@@ -74,5 +74,5 @@ This project is aligned with the FAIR principles:
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
-**Maintainer**: Your Name  
-**Contact**: your.email@example.com
+**Maintainer**: Xiang Li
+**Contact**: xi3885li-s@lu.se
